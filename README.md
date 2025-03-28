@@ -23,7 +23,7 @@ A smooth and visually appealing Animated Loading Bar built using HTML, CSS, and 
 
 🌐 Live Demo
 
-🔗 Click here to see the Animated Loading Bar
+(🔗 Click here to see the Animated Loading Bar)https://codeswithzaid.github.io/Animated-Loading-Bar/
 
 
 📌 Technologies Used
